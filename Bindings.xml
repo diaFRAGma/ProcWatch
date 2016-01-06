@@ -1,0 +1,9 @@
+<Bindings>
+	<Binding name="Toggle ProcWatch" header="PROCWATCH">
+		if ProcWatchFrame:IsShown() then
+			ProcWatchFrame:Hide();
+		else
+			ProcWatchFrame:Show();
+		end
+	</Binding>
+</Bindings>

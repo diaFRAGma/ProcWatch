@@ -1,0 +1,7 @@
+## Interface: 1300
+## Title: ProcWatch
+## Author: Gello
+## Notes: AddOn to monitor the proc rate of user-defined events
+##SavedVariables: ProcWatch
+##SavedVariables: ProcWatchDamage
+ProcWatch.xml
